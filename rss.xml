@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[y.a.b. • ford fisher]]></title>
+        <description><![CDATA[y.a.b. • ford fisher]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 May 2016 12:24:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this site is basically about analogue photography</p>]]></description>
+            <link>undefinedthis-site-is-basically-about-analogue-photography/index.html</link>
+            <guid isPermaLink="false">2976aeb6-99ad-4f00-9743-0b0f55aa50b5</guid>
+            <pubDate>Sun, 22 May 2016 12:24:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
